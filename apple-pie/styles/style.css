@@ -1,0 +1,129 @@
+html {
+    font-size: 16px;
+    background-color:white;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: lighter;
+    margin-left: 400px;
+    margin-right: 400px;
+    font-family:'Montserrat' ;
+    align-items: center;
+    justify-content: center;
+    font-display: column;
+    column-width:600px;
+    
+    
+    
+  }
+  
+
+  .container {
+    position: relative;
+    text-align: center;
+    
+  }
+
+  #applePieText {
+    font-weight: lighter;
+    font-size: 80px;
+    color: white;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+  
+  }
+
+  #headerPic {
+    width: 1400px;
+    display: inline-block;
+    margin-left: -130px;
+    margin-right: auto;
+     
+  }
+
+  #page {
+    margin: 400px 400px 400px 400px;
+  }
+  .header {
+    font-family: Verdana, Geneva, Tahoma, sans-serif
+    color rgb(240,255,244);
+  } 
+
+  .time p {
+    text-align:center-justify;
+    margin-left: 0px;
+    margin-right: 50px;
+    margin-top: 50px;
+    margin-bottom: 20px;
+    font-weight: lightest;
+    /* background-color: cadetblue; */
+  }
+
+  .directions {
+    text-align: justify;
+    margin-left: -50px;
+  }
+  .directions h3 {
+    text-align:justify;
+    margin-left: 90px;
+    /* background-color: blueviolet; */
+  }
+  .directions ul {
+    list-style-type:none;;
+    text-decoration: none;
+    text-align:justify;
+    line-height: 1.7;
+    text-align:justify;
+    margin-left: 50px;
+  }
+
+  .line h3{
+    text-decoration: none;
+    justify-items: left;
+  }
+
+  .test {
+    /* background-color: blue; */
+    text-align: center;
+    list-style: none;
+    text-decoration: none;
+  }
+
+  .test ul {
+    list-style-type:none;;
+    text-decoration: none;
+    text-align:justify;
+    line-height: 1.7;
+    
+  }
+
+  .test h3 {
+    text-align:justify;
+    margin-left: 50px;
+  }
+
+  .infoImg {
+    margin-left: 20px;
+    margin-right: 400px;
+    
+  }
+
+  .cookTime {
+    
+    margin-left: 40px;
+    margin-right: 400px;
+  }
+  
+  
+  .solid {
+    margin: 40px -90px 50px ;
+    border-top: 2px solid #bbb;
+    padding: 0px;
+  }
+      
+
+ .footer {
+  padding: 40px 10px;
+  text-align: center;
+  
+ }
